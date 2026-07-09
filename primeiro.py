@@ -1,0 +1,6 @@
+print("Ola Mundo")
+nome=input("Qual é o teu nome?")
+idade= input("Quantos anos tu tens?")
+print("Prazer", nome, " Tu tens", idade, "anos")
+ano_nascimento = 2026- int(idade)
+print("Voce nasceu em", ano_nascimento) 
